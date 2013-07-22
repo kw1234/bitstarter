@@ -1,0 +1,97 @@
+#top {
+    background-color: #ccc;
+    padding: 20px
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+}
+
+#navigation a {
+    display: block;
+    padding: 20px 10px;
+}
+
+#top p {
+    color: #246;
+}
+
+a {
+    color: yellow;
+}
+
+p {
+    font: 14px/1.5 "Times New Roman", times, serif;
+    padding: 30px 10px;
+    border: 1px black solid;
+    border-width: 1px 5px 5px 1px;
+    border-color: white green blue yellow;
+    margin: 10px 50px;
+}
+
+body {
+	font-size: 14px;
+	color: navy;
+	background-color: red;
+	font-family: serif;
+	margin: 20px;
+	padding: 40px;
+	background: white url(http://upload.wikimedia.org/wikipedia/commons/6/63/Yellow_nectarine_and_cross_section.jpg) no-repeat top right;
+	}
+
+h1, h3 {
+    color: #ffc;
+    background-color: #009;
+    font-family: helvetica;
+    border-style: groove;
+    border-width: 20px;
+    border-color: green;
+}
+
+h2{
+	font-size:1.5em;
+	border-bottom-style: solid;
+	}
+	
+Table{
+	background-color: white;
+	border-width: 10px;
+	border-color: black;
+	}
+	
+td{
+	border-color: purple;
+	border-width: 3px;
+	}
+	
+th{
+	border-color: purple;
+	border-width: 3px;
+	}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:active {
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue;
+    background-color: yellow;
+}
+
+input:focus, textarea:focus {
+    background: #eee;
+}
+
+li { 
+	display: inline 
+	}
